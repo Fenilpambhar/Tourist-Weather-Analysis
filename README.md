@@ -1,5 +1,5 @@
 # Final_Project
-This is the final project for CMPT 353 Data Science course. The main purpose of this project is to explore the relationship between weather and tourism in India, using data from 2015 to 2019. The main research question is: how do temperature, precipitation, humidity, wind speed, and rain influence the monthly tourist arrivals in various states of India? 
+This is the final project for Data Science course. The main purpose of this project is to explore the relationship between weather and tourism in India, using data from 2015 to 2019. The main research question is: how do temperature, precipitation, humidity, wind speed, and rain influence the monthly tourist arrivals in various states of India? 
 
 # Instructions
 Required dependncy can be install by simply running the below command
